@@ -36,3 +36,8 @@ pip install "numpy<1.24"
 python objectTracking.py
 ```
 
+### Watch the Complete Step by Step Explanation
+
+- Video Tutorial Link  [`YouTube Link`](https://www.youtube.com/watch?v=7HGfEPC6pf4)
+
+[![Watch the Complete Tutorial for the Step by Step Explanation](https://img.youtube.com/vi/7HGfEPC6pf4/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=7HGfEPC6pf4))
